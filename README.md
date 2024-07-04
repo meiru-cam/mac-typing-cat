@@ -1,7 +1,7 @@
 
 # bongo-cat-typing-app
 
-![Bongo Cat Typing](bongo-cat-example.jpg))
+![Bongo Cat Typing](example.jpg))
 
 A movable floating bongo-cat that types while you type.
 
