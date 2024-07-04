@@ -1,7 +1,8 @@
 
 # bongo-cat-typing-app
 
-![Bongo Cat Typing](example.jpg))
+# <img src="example.jpg" alt="Bongo Cat Typing" width="50" height="50" style="vertical-align: middle;"> mac-typing-cat
+
 
 A movable floating bongo-cat that types while you type.
 
