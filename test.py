@@ -1,3 +1,13 @@
+"""
+mac-typing-cat
+
+A movable floating bongo-cat that types while you type.
+
+Author: Meiru Zhang
+Date: 2024-07-04
+"""
+
+
 import sys
 import warnings
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxLayout
